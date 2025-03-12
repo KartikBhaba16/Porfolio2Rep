@@ -1,0 +1,6 @@
+Workflow - 
+Initialize npm for the project - npx create-next-app@latest ./  (copied from the link on the nodejs website)
+setup all the requirements 
+-base file folder setup 
+
+- run test -> npm run dev (Test devolpment)(cmd+click)
